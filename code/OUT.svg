@@ -1,0 +1,32 @@
+<svg width="500"  height="500">
+<line x1="225"   y1="375" x2="275"  y2="375" stroke="black" stroke-width="3"/>
+<line x1="235"   y1="380" x2="265"  y2="380" stroke="black" stroke-width="3"/>
+<line x1="245"   y1="385" x2="255"  y2="385" stroke="black" stroke-width="3"/>
+<line x1="250"   y1="360" x2="250"  y2="375" stroke="black" stroke-width="3"/>
+<line x1="250"   y1="360" x2="150"  y2="360" stroke="black" stroke-width="3"/>
+<line x1="250"   y1="360" x2="350"  y2="360" stroke="black" stroke-width="3"/>
+<line x1="150"   y1="360" x2="150"  y2="300" stroke="black" stroke-width="3"/>
+
+<circle cx="150"  cy="260" r="20" stroke="black" stroke-width="3"  fill="none" /> 
+ <path fill="none" stroke="black" stroke-width="3" d="m135,260 q5,-17 15,0" />  
+ <path fill="none" stroke="black" stroke-width="3" d="m150,260 q10,15 15,0" />
+<line x1="150"   y1="240" x2="150"  y2="220" stroke="black" stroke-width="3"/>
+<line x1="150"   y1="280" x2="150"  y2="300" stroke="black" stroke-width="3"/>
+<line x1="185"   y1="205" x2="195"  y2="205" stroke="black" stroke-width="3"/>
+<line x1="200"   y1="205" x2="210"  y2="205" stroke="black" stroke-width="3"/>
+<line x1="195"   y1="215" x2="195"  y2="195" stroke="black" stroke-width="3"/>
+<line x1="200"   y1="215" x2="200"  y2="195" stroke="black" stroke-width="3"/>
+<path d="m210,225 8,11 h-8 l8,11 h-8 l8,11 h-8 l8,11" fill="none" stroke="black" stroke-width="3" stroke-linecap="square"/>
+<path d="m245,210 11,8 v-8 l11,8 v-8 l11,8 v-8 l11,8" fill="none" stroke="black" stroke-width="3" stroke-linecap="square"/>
+<path d="m205,220 v10 c-11,0 -11,8 0,8 -11,0 -11,8 0,8 -11,0 -11,8 0,8 v10" fill="none" stroke="black" stroke-width="3" stroke-linecap="square"/>
+<path d="m230,220 8,11 h-8 l8,11 h-8 l8,11 h-8 l8,11" fill="none" stroke="black" stroke-width="3" stroke-linecap="square"/>
+<line x1="255"   y1="220" x2="255"  y2="230" stroke="black" stroke-width="3"/>
+<line x1="255"   y1="235" x2="255"  y2="245" stroke="black" stroke-width="3"/>
+<line x1="265"   y1="230" x2="245"  y2="230" stroke="black" stroke-width="3"/>
+<line x1="265"   y1="235" x2="245"  y2="235" stroke="black" stroke-width="3"/>
+<circle cx="185"  cy="165" r="20" stroke="black" stroke-width="3"  fill="none" /> 
+ <path fill="none" stroke="black" stroke-width="3" d="m170,165 q5,-17 15,0" />  
+ <path fill="none" stroke="black" stroke-width="3" d="m185,165 q10,15 15,0" />
+<line x1="165"   y1="165" x2="145"  y2="165" stroke="black" stroke-width="3"/>
+<line x1="205"   y1="165" x2="225"  y2="165" stroke="black" stroke-width="3"/>
+</svg>

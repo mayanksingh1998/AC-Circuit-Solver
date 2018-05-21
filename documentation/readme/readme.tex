@@ -1,0 +1,82 @@
+\documentclass{article}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\pagestyle{fancy}
+
+\lhead{AC CIRCUIT SOLVER}
+\rhead{ \thepage}
+\begin{document}
+\begin{center}
+
+\begin{Huge}
+
+\textbf{\textit{ASSIGNMENT 2 (PART 1)}}
+\noindent
+{\color{red} \rule{\linewidth}{0.5mm} }
+\textit{AC CIRCUIT SOLVER}
+\noindent
+{\color{red} \rule{\linewidth}{0.3mm} }
+\end{Huge}
+Date = 13/03/2018
+\end{center}
+%\hspace*{-3cm}%
+\begin{Huge}
+\textit{•\section*{Group Partners :-}}
+\end{Huge}
+
+\begin{large}
+
+
+
+
+\color{red}\textbf{Name} = \color{black}Mayank Singh 
+
+ 
+\color{red}\textbf{Roll no.}=\color{black}  2016CSJ0024\\
+
+
+\color{red}\textbf{Name} =\color{black} Thaisnang Reang
+
+  
+\color{red}\textbf{Roll no.}=  \color{black}2016CSJ0029
+
+%\hspace*{-3cm}%
+\end{large}
+
+\newpage
+\begin{huge}
+\section{Overview}
+\end{huge}
+\noindent
+{\color{red} \rule{\linewidth}{0.2mm} }
+WE HAVE USED FLEX ANS BISON FOR ASSIGNMENT.\\
+\\
+It will take top.cir file as input and will draw the .svg image of circuit defined in top.cir file
+
+
+
+\hspace*{-5cm}%s
+\begin{huge}
+\section{Software requirement:}
+\noindent
+{\color{red} \rule{\linewidth}{0.2mm} }
+\end{huge}
+\\
+\\1. FLEX
+\\2. BISON
+
+\begin{huge}
+\section{How to Compile:-}
+\noindent
+{\color{red} \rule{\linewidth}{0.2mm} }
+\end{huge}
+\\
+step 1 = First compile bison file type:- \textit{" bison -d bis.y  ".}
+\\
+\\  step 2 = Second compile flex file type \textit{" flex lex.l "}
+\\
+\\  step 3 = And at last type \textit{" g++ bis.tab.c lex.yy.c m.cpp -lfl " or "  g++ bis.tab.c lex.yy.c m.cpp -lfl std=gnu++11 "}
+\\
+\\ step 4 = Then just run the file by typing "./a.out"
+\end{document}

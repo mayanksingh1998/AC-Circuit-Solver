@@ -1,0 +1,8 @@
+C1 Net0 Net1 100NF
+R1 Net2 Net1 10K
+R2 Net2 Net3 10K
+L1 Net0 0 10NH
+R2 Net0 0 1K
+C2 Net0 0 10NF
+I1 Net0 0 SINE ( 0 10 10Khz 0.0S 0 )
+V1 Net0 Net1 SINE ( 0 12 10Khz 0.0S 0 )
